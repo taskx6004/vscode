@@ -82,7 +82,7 @@
     "express": "^4.13.1",
     "glob": "^5.0.13",
     "gulp": "^3.8.9",
-    "gulp-atom-electron": "^1.19.2",
+    "gulp-atom-electron": "^1.17.0",
     "gulp-azure-storage": "^0.8.2",
     "gulp-buffer": "0.0.2",
     "gulp-concat": "^2.6.0",
